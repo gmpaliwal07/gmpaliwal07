@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmpaliwal07
+- 👋 Hi, I’m Gaurav Paliwal.
 - 👀 I’m interested in Machine Learning and AI and Software Systems
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
