@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gaurav Paliwal 👋</h1>
 
 <p align="center">
-  <em>Engineer | Machine Learning Enthusiast | Curious Mind</em>
+  <em> Software Engineer | Machine Learning Enthusiast </em>
 </p>
 
 ---
@@ -9,14 +9,14 @@
 ### 🚀 About Me
 
 - 👨‍💻 Passionate about building intelligent systems and scalable software solutions.
-- 🤖 Currently diving deep into **Machine Learning** and **Natural Language Processing (NLP)**.
+- 🤖 Currently learning and working on **Machine Learning** and **Natural Language Processing (NLP)**.
 - ⚙️ Strong interest in **Automation** — making systems smarter, faster, and more efficient.
 - 🛠️ Worked on full-stack applications, real-time UIs, dev tooling, and NLP projects using a variety of modern frameworks and stacks and still learning new things.
 - 💡 I enjoy solving hard problems, experimenting with tech, and building tools that improve developer and user experience.
 - 🧠 Always curious about how things work and how to make them better.
 
 ---
-
+Till now worked on this tech stacks and languages 
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -72,7 +72,6 @@
 - 🧾 Built NLP projects involving text classification  and keyword extraction using **scikit-learn**, **spaCy**, and **NLTK**.
 - 🛠️ Created developer-focused tools using **PlateUI**, **Docusaurus**, and **Fastify**.
 - 🚢 Deployed microservices with **Docker**, **Node.js**, and **AWS**.
-
 ---
 
 ### 🌍 Location
