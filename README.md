@@ -72,6 +72,8 @@ Till now worked on this tech stacks and languages
 - 🧾 Built NLP projects involving text classification  and keyword extraction using **scikit-learn**, **spaCy**, and **NLTK**.
 - 🛠️ Created developer-focused tools using **PlateUI**, **Docusaurus**, and **Fastify**.
 - 🚢 Deployed microservices with **Docker**, **Node.js**, and **AWS**.
+-💳 unified-pay-core — A unified Node.js payment library that integrates multiple payment gateways with a single function.
+📘 Docs: unifiedpay.in
 ---
 
 ### 🌍 Location
