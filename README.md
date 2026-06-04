@@ -21,11 +21,9 @@ Till now worked on this tech stacks and languages
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framer%20Motion-EF0179?logo=framer&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PlateUI-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docusaurus-0A0A0A?logo=docusaurus&logoColor=fff&style=for-the-badge" />
